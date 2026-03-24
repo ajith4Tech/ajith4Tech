@@ -14,27 +14,22 @@ My work sits at the intersection of backend engineering, cloud infrastructure, a
 - Platforms with social impact and long-term maintainability
 
 ## Featured Projects
-Idlistack
-Rforum
-Fundshui
-Brain CT Image Registration
-Githeal
+- Idlistack
+- Rforum
+- Fundshui
+- Brain CT Image Registration
+- Githeal
 
 ## Tech Stack
 
 Core:
-- Python
-- FastAPI
-- Frappe
+- Python, FastAPI, Frappe, Celery
 
 Infrastructure:
-- Kubernetes
-- Docker
-- PostgreSQL
+- Kubernetes, Docker, Helm Charts, PostgreSQL
 
 Frontend:
-- Svelte
-- Vue
+- Svelte, Vue
 
 ## Engineering Focus
 
